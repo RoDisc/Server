@@ -1,5 +1,5 @@
 [package]
-name = "rodisc_server"
+name = "rodisc-server"
 version = "0.1.0"
 edition = "2021"
 
